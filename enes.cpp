@@ -1,10 +1,9 @@
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
-ben bu yorumu yPTIM
+int main() {
 
-int main(){
-
-return 0;
+    return 0;
 }
